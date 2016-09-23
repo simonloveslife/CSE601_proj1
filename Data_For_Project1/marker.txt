@@ -1,0 +1,21 @@
+mk_id	name	type	locus	description
+00063390	octey	Maker Type 03	Locus of octey	Desp. of octey
+00080948	qzilr	Maker Type 01	Locus of qzilr	Desp. of qzilr
+00074813	fhuji	Maker Type 05	Locus of fhuji	Desp. of fhuji
+00020005	qbikb	Maker Type 05	Locus of qbikb	Desp. of qbikb
+00071658	dbrnt	Maker Type 02	Locus of dbrnt	Desp. of dbrnt
+00062651	gpuff	Maker Type 04	Locus of gpuff	Desp. of gpuff
+00026311	tolpc	Maker Type 05	Locus of tolpc	Desp. of tolpc
+00066086	noyxg	Maker Type 03	Locus of noyxg	Desp. of noyxg
+00051846	wplyr	Maker Type 04	Locus of wplyr	Desp. of wplyr
+00026824	lefbl	Maker Type 04	Locus of lefbl	Desp. of lefbl
+00089187	jqujw	Maker Type 03	Locus of jqujw	Desp. of jqujw
+00058754	dvpph	Maker Type 04	Locus of dvpph	Desp. of dvpph
+00007755	uywxj	Maker Type 04	Locus of uywxj	Desp. of uywxj
+00001932	wkzmp	Maker Type 01	Locus of wkzmp	Desp. of wkzmp
+00018501	esond	Maker Type 01	Locus of esond	Desp. of esond
+00074787	fuvwl	Maker Type 05	Locus of fuvwl	Desp. of fuvwl
+00010934	rlhfp	Maker Type 02	Locus of rlhfp	Desp. of rlhfp
+00091682	xunqs	Maker Type 03	Locus of xunqs	Desp. of xunqs
+00076034	gceee	Maker Type 01	Locus of gceee	Desp. of gceee
+00025332	jbyrm	Maker Type 02	Locus of jbyrm	Desp. of jbyrm

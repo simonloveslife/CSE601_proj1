@@ -1,0 +1,11 @@
+nm_id	type	software	parameters	description
+08	Norm Type 2	xwpram	Parameters of Software xwpram	Desp. of Normalization 08
+06	Norm Type 2	yfhatq	Parameters of Software yfhatq	Desp. of Normalization 06
+02	Norm Type 1	njzbnp	Parameters of Software njzbnp	Desp. of Normalization 02
+09	Norm Type 2	mwsorl	Parameters of Software mwsorl	Desp. of Normalization 09
+06	Norm Type 2	bqlbdx	Parameters of Software bqlbdx	Desp. of Normalization 06
+06	Norm Type 2	qqbgbz	Parameters of Software qqbgbz	Desp. of Normalization 06
+03	Norm Type 1	nzwmuk	Parameters of Software nzwmuk	Desp. of Normalization 03
+04	Norm Type 1	oxfsst	Parameters of Software oxfsst	Desp. of Normalization 04
+08	Norm Type 2	wbutwu	Parameters of Software wbutwu	Desp. of Normalization 08
+04	Norm Type 1	lbnidg	Parameters of Software lbnidg	Desp. of Normalization 04

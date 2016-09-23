@@ -1,0 +1,11 @@
+pf_id	hardware	software	settings	description
+045	tawtow	elaaen	Setting of Platform 045	Desp. of Platform 045
+077	mmzjej	zkpxce	Setting of Platform 077	Desp. of Platform 077
+080	misuwf	yhmqmk	Setting of Platform 080	Desp. of Platform 080
+006	wchshz	utvnts	Setting of Platform 006	Desp. of Platform 006
+088	niolzx	cxegke	Setting of Platform 088	Desp. of Platform 088
+011	zareom	kmgjea	Setting of Platform 011	Desp. of Platform 011
+042	zxkqoc	iwoqsw	Setting of Platform 042	Desp. of Platform 042
+084	ncxinn	fladxz	Setting of Platform 084	Desp. of Platform 084
+033	rcnlvz	sgkzdh	Setting of Platform 033	Desp. of Platform 033
+077	wzelgr	fqajuh	Setting of Platform 077	Desp. of Platform 077

@@ -1,0 +1,277 @@
+s_id	mk_id	mk_result	mk_date	as_id	as_result	as_date	tm_id	tm_description
+0000300018	00051846	Result of Marker wplyr	1990-8-18	00018557	Result of Assay debyte	1990-8-18	00414697	Desp. of Term ymtjhp
+0000300018	null	null	null	null	null	null	00762439	Desp. of Term vbkocw
+0000973218	00091682	Result of Marker xunqs	1999-1-23	00086993	Result of Assay jksbzh	1999-1-23	00028089	Desp. of Term gbnpzw
+0000973218	null	null	null	null	null	null	00817916	Desp. of Term tkhlzs
+0000792525	00058754	Result of Marker dvpph	1995-2-2	00014473	Result of Assay mykedz	1995-2-2	00040872	Desp. of Term nqfumg
+0000792525	null	null	null	null	null	null	00386574	Desp. of Term xewppd
+0000792525	null	null	null	null	null	null	00941077	Desp. of Term vfxnna
+0000792525	null	null	null	null	null	null	00012379	Desp. of Term baegwm
+0000792525	null	null	null	null	null	null	00378010	Desp. of Term zwfcqb
+0000792525	null	null	null	null	null	null	00140946	Desp. of Term kxqqtj
+0000792525	null	null	null	null	null	null	00614408	Desp. of Term zkxnlj
+0000792525	null	null	null	null	null	null	00276079	Desp. of Term sbobaq
+0000792525	null	null	null	null	null	null	00913577	Desp. of Term bvhlbr
+0000524329	00026311	Result of Marker tolpc	1994-11-6	00003751	Result of Assay hdnuxj	1994-11-6	00719063	Desp. of Term cyzeoj
+0000187508	00062651	Result of Marker gpuff	1996-10-12	00067126	Result of Assay xnvbmf	1996-10-12	null	null
+0000940071	00001932	Result of Marker wkzmp	1998-5-20	00046778	Result of Assay pukqkg	1998-5-20	00041207	Desp. of Term ysgwub
+0000881263	00058754	Result of Marker dvpph	2000-3-1	00098707	Result of Assay cvxrcs	2000-3-1	null	null
+0000132730	00025332	Result of Marker jbyrm	1996-2-17	00015304	Result of Assay bwhota	1996-2-17	00051195	Desp. of Term ftyjxz
+0000580723	00063390	Result of Marker octey	1995-11-21	00095472	Result of Assay iedoin	1995-11-21	00177869	Desp. of Term kunrck
+0000580723	null	null	null	null	null	null	00703436	Desp. of Term musiqn
+0000580723	null	null	null	null	null	null	00438041	Desp. of Term bglipp
+0000580723	null	null	null	null	null	null	00719063	Desp. of Term cyzeoj
+0000580723	null	null	null	null	null	null	00570455	Desp. of Term asublw
+0000580723	null	null	null	null	null	null	00916816	Desp. of Term btzrwx
+0000309825	00010934	Result of Marker rlhfp	1992-11-21	00073813	Result of Assay ztnpld	1992-11-21	00992898	Desp. of Term xybgoq
+0000309825	null	null	null	null	null	null	00717497	Desp. of Term vilmkw
+0000309825	null	null	null	null	null	null	00517777	Desp. of Term lrrwny
+0000309825	null	null	null	null	null	null	00498141	Desp. of Term pizciz
+0000309825	null	null	null	null	null	null	00742592	Desp. of Term kzasbi
+0000309825	null	null	null	null	null	null	00173596	Desp. of Term dezehy
+0000309825	null	null	null	null	null	null	00199542	Desp. of Term xygjvw
+0000309825	null	null	null	null	null	null	00030723	Desp. of Term hqzlqn
+0000309825	null	null	null	null	null	null	00907807	Desp. of Term xfdvau
+0000309825	null	null	null	null	null	null	00305463	Desp. of Term xyzvwb
+0000784165	00026824	Result of Marker lefbl	1994-11-21	00067126	Result of Assay xnvbmf	1994-11-21	00315367	Desp. of Term kmygiz
+0000784165	null	null	null	null	null	null	00562342	Desp. of Term ztwqjc
+0000784165	null	null	null	null	null	null	00562342	Desp. of Term ztwqjc
+0000784165	null	null	null	null	null	null	00748876	Desp. of Term tyouls
+0000784165	null	null	null	null	null	null	00205064	Desp. of Term cqpkvc
+0000784165	null	null	null	null	null	null	00154040	Desp. of Term smirfk
+0000784165	null	null	null	null	null	null	00364499	Desp. of Term vhiarc
+0000647658	00076034	Result of Marker gceee	1994-2-12	00046778	Result of Assay pukqkg	1994-2-12	00123129	Desp. of Term qsmlpn
+0000647658	null	null	null	null	null	null	00322142	Desp. of Term dsksfu
+0000647658	null	null	null	null	null	null	00552830	Desp. of Term ztycdi
+0000647658	null	null	null	null	null	null	00798155	Desp. of Term ylbhdi
+0000647658	null	null	null	null	null	null	00771064	Desp. of Term apcmzs
+0000647658	null	null	null	null	null	null	00238565	Desp. of Term gdpwmc
+0000647658	null	null	null	null	null	null	00238565	Desp. of Term gdpwmc
+0000647658	null	null	null	null	null	null	00957285	Desp. of Term wbmmgv
+0000353478	00066086	Result of Marker noyxg	1994-3-21	00045014	Result of Assay biriis	1994-3-21	00110836	Desp. of Term hdheye
+0000353478	null	null	null	null	null	null	00590884	Desp. of Term shgans
+0000353478	null	null	null	null	null	null	00161667	Desp. of Term uzsxus
+0000353478	null	null	null	null	null	null	00318919	Desp. of Term rafpnt
+0000353478	null	null	null	null	null	null	00028089	Desp. of Term gbnpzw
+0000353478	null	null	null	null	null	null	00244504	Desp. of Term mdoopa
+0000353478	null	null	null	null	null	null	00447614	Desp. of Term itzywb
+0000353478	null	null	null	null	null	null	00727989	Desp. of Term iquqip
+0000353478	null	null	null	null	null	null	00769894	Desp. of Term iwcohi
+0000449398	00010934	Result of Marker rlhfp	1990-10-25	00063661	Result of Assay vvonyi	1990-10-25	00515988	Desp. of Term qtleah
+0000449398	null	null	null	null	null	null	00700729	Desp. of Term qqqqxk
+0000812094	00020005	Result of Marker qbikb	1994-5-25	00062973	Result of Assay ivvqeg	1994-5-25	00907807	Desp. of Term xfdvau
+0000812094	null	null	null	null	null	null	00562342	Desp. of Term ztwqjc
+0000812094	null	null	null	null	null	null	00592667	Desp. of Term shvngl
+0000812094	null	null	null	null	null	null	00768385	Desp. of Term isjyhg
+0000812094	null	null	null	null	null	null	00551266	Desp. of Term wvzwtx
+0000726933	00089187	Result of Marker jqujw	1996-9-7	00001977	Result of Assay lkepor	1996-9-7	00140946	Desp. of Term kxqqtj
+0000726933	null	null	null	null	null	null	00111409	Desp. of Term lbxdbg
+0000726933	null	null	null	null	null	null	00326301	Desp. of Term qexdzi
+0000726933	null	null	null	null	null	null	00635785	Desp. of Term ehryvd
+0000726933	null	null	null	null	null	null	00534502	Desp. of Term ylzvjm
+0000726933	null	null	null	null	null	null	00051236	Desp. of Term pzmste
+0000726933	null	null	null	null	null	null	00941077	Desp. of Term vfxnna
+0000726933	null	null	null	null	null	null	00956448	Desp. of Term cxfjrp
+0000726933	null	null	null	null	null	null	00315367	Desp. of Term kmygiz
+0000726933	null	null	null	null	null	null	00305056	Desp. of Term gnrwuu
+0000953971	00062651	Result of Marker gpuff	1994-9-25	00081568	Result of Assay ywwguw	1994-9-25	00389870	Desp. of Term ogikgd
+0000835248	00063390	Result of Marker octey	1998-9-8	00073813	Result of Assay ztnpld	1998-9-8	00733281	Desp. of Term nazjax
+0000835248	null	null	null	null	null	null	00050298	Desp. of Term pqdmmd
+0000835248	null	null	null	null	null	null	00621660	Desp. of Term sbcvrf
+0000835248	null	null	null	null	null	null	00533498	Desp. of Term hkfulm
+0000835248	null	null	null	null	null	null	00957285	Desp. of Term wbmmgv
+0000835248	null	null	null	null	null	null	00376216	Desp. of Term audosm
+0000835248	null	null	null	null	null	null	00711012	Desp. of Term hqqwtf
+0000835248	null	null	null	null	null	null	00041207	Desp. of Term ysgwub
+0000835248	null	null	null	null	null	null	00451517	Desp. of Term tgrget
+0000290514	00020005	Result of Marker qbikb	1990-8-20	00021700	Result of Assay msnjiy	1990-8-20	00640885	Desp. of Term wumtls
+0000290514	null	null	null	null	null	null	00807051	Desp. of Term dpvuaf
+0000290514	null	null	null	null	null	null	00132233	Desp. of Term pegxzj
+0000355206	00026824	Result of Marker lefbl	1990-5-10	00046778	Result of Assay pukqkg	1990-5-10	00446956	Desp. of Term txdbtl
+0000355206	null	null	null	null	null	null	00634830	Desp. of Term sifzzo
+0000355206	null	null	null	null	null	null	00832988	Desp. of Term iezpuh
+0000355206	null	null	null	null	null	null	00916816	Desp. of Term btzrwx
+0000355206	null	null	null	null	null	null	00703436	Desp. of Term musiqn
+0000355206	null	null	null	null	null	null	00639488	Desp. of Term vwfozn
+0000355206	null	null	null	null	null	null	00030723	Desp. of Term hqzlqn
+0000355206	null	null	null	null	null	null	00788349	Desp. of Term igwnoo
+0000587508	00076034	Result of Marker gceee	1998-4-13	00014473	Result of Assay mykedz	1998-4-13	00566524	Desp. of Term vttgku
+0000587508	null	null	null	null	null	null	00073826	Desp. of Term wdppao
+0000587508	null	null	null	null	null	null	00684232	Desp. of Term eqnmjl
+0000587508	null	null	null	null	null	null	00363900	Desp. of Term kysxvg
+0000587508	null	null	null	null	null	null	00492872	Desp. of Term caesle
+0000867996	00018501	Result of Marker esond	1991-4-16	00073908	Result of Assay cubwpy	1991-4-16	00030723	Desp. of Term hqzlqn
+0000867996	null	null	null	null	null	null	00455979	Desp. of Term psbmgb
+0000878232	00089187	Result of Marker jqujw	1997-10-2	00005440	Result of Assay zpoeoe	1997-10-2	null	null
+0000970703	00007755	Result of Marker uywxj	1992-4-27	00018557	Result of Assay debyte	1992-4-27	00941077	Desp. of Term vfxnna
+0000970703	null	null	null	null	null	null	00698099	Desp. of Term jvthnp
+0000970703	null	null	null	null	null	null	00224724	Desp. of Term ckjjxu
+0000970703	null	null	null	null	null	null	00176087	Desp. of Term kytele
+0000970703	null	null	null	null	null	null	00676079	Desp. of Term vozkto
+0000970703	null	null	null	null	null	null	00003539	Desp. of Term mszfwi
+0000970703	null	null	null	null	null	null	00769894	Desp. of Term iwcohi
+0000970703	null	null	null	null	null	null	00107841	Desp. of Term rmreav
+0000385974	00058754	Result of Marker dvpph	1993-5-16	00067126	Result of Assay xnvbmf	1993-5-16	00597563	Desp. of Term tsmyyh
+0000826959	00076034	Result of Marker gceee	1994-3-17	00037209	Result of Assay yxwblf	1994-3-17	00608856	Desp. of Term pdpfbx
+0000826959	null	null	null	null	null	null	00302722	Desp. of Term qcywms
+0000826959	null	null	null	null	null	null	00521193	Desp. of Term nfhhhk
+0000826959	null	null	null	null	null	null	00588746	Desp. of Term bmjlgu
+0000826959	null	null	null	null	null	null	00449678	Desp. of Term twmaru
+0000826959	null	null	null	null	null	null	00698099	Desp. of Term jvthnp
+0000826959	null	null	null	null	null	null	00205669	Desp. of Term faahji
+0000826959	null	null	null	null	null	null	00252611	Desp. of Term ndfqur
+0000826959	null	null	null	null	null	null	00232908	Desp. of Term njkowc
+0000826959	null	null	null	null	null	null	00565305	Desp. of Term gmckgf
+0000113849	00018501	Result of Marker esond	1996-7-17	00086993	Result of Assay jksbzh	1996-7-17	00065977	Desp. of Term jhrdmo
+0000113849	null	null	null	null	null	null	00164556	Desp. of Term uhzzja
+0000113849	null	null	null	null	null	null	00136504	Desp. of Term avokmt
+0000113849	null	null	null	null	null	null	00369883	Desp. of Term uuwglp
+0000113849	null	null	null	null	null	null	00336144	Desp. of Term nbpaor
+0000113849	null	null	null	null	null	null	00564634	Desp. of Term kcxqpa
+0000113849	null	null	null	null	null	null	00588788	Desp. of Term ndyopp
+0000113849	null	null	null	null	null	null	00642346	Desp. of Term xkcesx
+0000113849	null	null	null	null	null	null	00018668	Desp. of Term ragkbs
+0000113849	null	null	null	null	null	null	00671124	Desp. of Term pjikke
+0000168326	00007755	Result of Marker uywxj	1998-10-28	00045014	Result of Assay biriis	1998-10-28	00278307	Desp. of Term wpbwoa
+0000168326	null	null	null	null	null	null	00067255	Desp. of Term hqnjjw
+0000168326	null	null	null	null	null	null	00762479	Desp. of Term kzuyka
+0000168326	null	null	null	null	null	null	00205141	Desp. of Term ajmsxx
+0000168326	null	null	null	null	null	null	00451382	Desp. of Term xwpehd
+0000168326	null	null	null	null	null	null	00042887	Desp. of Term yfvipg
+0000168326	null	null	null	null	null	null	00068211	Desp. of Term tojmqq
+0000832153	00026824	Result of Marker lefbl	1993-6-13	00095329	Result of Assay rcrbfl	1993-6-13	00684232	Desp. of Term eqnmjl
+0000832153	null	null	null	null	null	null	00043009	Desp. of Term okzwln
+0000832153	null	null	null	null	null	null	00051195	Desp. of Term ftyjxz
+0000832153	null	null	null	null	null	null	00321460	Desp. of Term bmsxqg
+0000832153	null	null	null	null	null	null	00733281	Desp. of Term nazjax
+0000832153	null	null	null	null	null	null	00432049	Desp. of Term prezks
+0000246305	00058754	Result of Marker dvpph	1998-9-17	00049519	Result of Assay dkbooh	1998-9-17	00544597	Desp. of Term dzczws
+0000246305	null	null	null	null	null	null	00658625	Desp. of Term dmlmaq
+0000246305	null	null	null	null	null	null	00430154	Desp. of Term qvhpzz
+0000246305	null	null	null	null	null	null	00588788	Desp. of Term ndyopp
+0000246305	null	null	null	null	null	null	00788349	Desp. of Term igwnoo
+0000246305	null	null	null	null	null	null	00685623	Desp. of Term cdzaqt
+0000246305	null	null	null	null	null	null	00869839	Desp. of Term wvbzic
+0000824597	00007755	Result of Marker uywxj	1998-2-4	00081568	Result of Assay ywwguw	1998-2-4	00751068	Desp. of Term hdfftu
+0000824597	null	null	null	null	null	null	00023220	Desp. of Term exeepx
+0000824597	null	null	null	null	null	null	00990893	Desp. of Term tcgahi
+0000824597	null	null	null	null	null	null	00616564	Desp. of Term boujzj
+0000824597	null	null	null	null	null	null	00147767	Desp. of Term ssjang
+0000824597	null	null	null	null	null	null	00027265	Desp. of Term xqsvuz
+0000824597	null	null	null	null	null	null	00926969	Desp. of Term orduuw
+0000824597	null	null	null	null	null	null	00703436	Desp. of Term musiqn
+0000824597	null	null	null	null	null	null	00364499	Desp. of Term vhiarc
+0000824597	null	null	null	null	null	null	00192021	Desp. of Term avsfny
+0000491966	00066086	Result of Marker noyxg	1997-3-28	00045014	Result of Assay biriis	1997-3-28	00246158	Desp. of Term tdiych
+0000491966	null	null	null	null	null	null	00817260	Desp. of Term wfaxsr
+0000491966	null	null	null	null	null	null	00027265	Desp. of Term xqsvuz
+0000491966	null	null	null	null	null	null	00839589	Desp. of Term speenn
+0000491966	null	null	null	null	null	null	00027265	Desp. of Term xqsvuz
+0000491966	null	null	null	null	null	null	00413642	Desp. of Term wqbnrn
+0000491966	null	null	null	null	null	null	00002582	Desp. of Term allxeb
+0000491966	null	null	null	null	null	null	00239585	Desp. of Term kjuhef
+0000491966	null	null	null	null	null	null	00822655	Desp. of Term gwvibs
+0000867456	00026311	Result of Marker tolpc	1995-11-14	00046778	Result of Assay pukqkg	1995-11-14	00775495	Desp. of Term seyxam
+0000867456	null	null	null	null	null	null	00597563	Desp. of Term tsmyyh
+0000867456	null	null	null	null	null	null	00325702	Desp. of Term xlejfl
+0000867456	null	null	null	null	null	null	00530953	Desp. of Term ivxufg
+0000867456	null	null	null	null	null	null	00615382	Desp. of Term blmfdo
+0000867456	null	null	null	null	null	null	00552830	Desp. of Term ztycdi
+0000147576	00051846	Result of Marker wplyr	1995-6-18	00027085	Result of Assay kroxtk	1995-6-18	00775934	Desp. of Term qqpuxc
+0000147576	null	null	null	null	null	null	00674898	Desp. of Term efjzny
+0000147576	null	null	null	null	null	null	00238565	Desp. of Term gdpwmc
+0000147576	null	null	null	null	null	null	00389870	Desp. of Term ogikgd
+0000147576	null	null	null	null	null	null	00915546	Desp. of Term ziinga
+0000147576	null	null	null	null	null	null	00414697	Desp. of Term ymtjhp
+0000147576	null	null	null	null	null	null	00457987	Desp. of Term cfvcvo
+0000147576	null	null	null	null	null	null	00341935	Desp. of Term tibdfo
+0000147576	null	null	null	null	null	null	00769394	Desp. of Term eozqzu
+0000147576	null	null	null	null	null	null	00608856	Desp. of Term pdpfbx
+0000277464	00018501	Result of Marker esond	1992-4-9	00095472	Result of Assay iedoin	1992-4-9	00199628	Desp. of Term wvyxrs
+0000277464	null	null	null	null	null	null	00490103	Desp. of Term bpimti
+0000277464	null	null	null	null	null	null	00941077	Desp. of Term vfxnna
+0000282722	00020005	Result of Marker qbikb	1993-4-12	00047533	Result of Assay wubjwf	1993-4-12	00658188	Desp. of Term tglsfb
+0000419875	00074787	Result of Marker fuvwl	2000-6-25	00055500	Result of Assay oxdwgs	2000-6-25	00198149	Desp. of Term rvdixz
+0000419875	null	null	null	null	null	null	00694264	Desp. of Term vfnops
+0000173265	00076034	Result of Marker gceee	1993-5-3	00026719	Result of Assay nsepsw	1993-5-3	00068211	Desp. of Term tojmqq
+0000173265	null	null	null	null	null	null	00771064	Desp. of Term apcmzs
+0000173265	null	null	null	null	null	null	00646898	Desp. of Term xcaawz
+0000173265	null	null	null	null	null	null	00124167	Desp. of Term usznje
+0000173265	null	null	null	null	null	null	00529398	Desp. of Term gjhjld
+0000173265	null	null	null	null	null	null	00742592	Desp. of Term kzasbi
+0000716291	00051846	Result of Marker wplyr	1997-6-26	00046778	Result of Assay pukqkg	1997-6-26	null	null
+0000384276	00058754	Result of Marker dvpph	1999-9-22	00003751	Result of Assay hdnuxj	1999-9-22	00490103	Desp. of Term bpimti
+0000384276	null	null	null	null	null	null	00131619	Desp. of Term hzsjty
+0000384276	null	null	null	null	null	null	00698099	Desp. of Term jvthnp
+0000384276	null	null	null	null	null	null	00376216	Desp. of Term audosm
+0000384276	null	null	null	null	null	null	00937245	Desp. of Term mhnnpc
+0000384276	null	null	null	null	null	null	00665849	Desp. of Term jbvxnq
+0000146579	00063390	Result of Marker octey	1993-4-22	00024146	Result of Assay ururpk	1993-4-22	null	null
+0000013834	00066086	Result of Marker noyxg	2000-1-15	00001977	Result of Assay lkepor	2000-1-15	00846147	Desp. of Term injxlp
+0000013834	null	null	null	null	null	null	00393203	Desp. of Term iifqhj
+0000013834	null	null	null	null	null	null	00276079	Desp. of Term sbobaq
+0000013834	null	null	null	null	null	null	00164556	Desp. of Term uhzzja
+0000013834	null	null	null	null	null	null	00565305	Desp. of Term gmckgf
+0000013834	null	null	null	null	null	null	00733324	Desp. of Term weaxhi
+0000013834	null	null	null	null	null	null	00803817	Desp. of Term sjvijf
+0000013834	null	null	null	null	null	null	00789248	Desp. of Term vvzkfy
+0000253110	00074813	Result of Marker fhuji	1996-7-1	00086993	Result of Assay jksbzh	1996-7-1	null	null
+0000228574	00062651	Result of Marker gpuff	1993-4-7	00024146	Result of Assay ururpk	1993-4-7	00916816	Desp. of Term btzrwx
+0000228574	null	null	null	null	null	null	00244504	Desp. of Term mdoopa
+0000228574	null	null	null	null	null	null	00640885	Desp. of Term wumtls
+0000228574	null	null	null	null	null	null	00412518	Desp. of Term rwaskg
+0000228574	null	null	null	null	null	null	00386006	Desp. of Term cjefms
+0000228574	null	null	null	null	null	null	00205064	Desp. of Term cqpkvc
+0000228574	null	null	null	null	null	null	00832988	Desp. of Term iezpuh
+0000228574	null	null	null	null	null	null	00151068	Desp. of Term wnbdft
+0000798854	00020005	Result of Marker qbikb	1997-11-2	00095548	Result of Assay xupqtu	1997-11-2	00198022	Desp. of Term xhfkej
+0000798854	null	null	null	null	null	null	00179585	Desp. of Term qexhcy
+0000798854	null	null	null	null	null	null	00204444	Desp. of Term htoejp
+0000082075	00074787	Result of Marker fuvwl	1992-1-28	00093494	Result of Assay rnftfv	1992-1-28	00029745	Desp. of Term ijcnic
+0000082075	null	null	null	null	null	null	00560942	Desp. of Term pbklwj
+0000082075	null	null	null	null	null	null	00274920	Desp. of Term igrhnv
+0000082075	null	null	null	null	null	null	00132501	Desp. of Term qeyvif
+0000082075	null	null	null	null	null	null	00176087	Desp. of Term kytele
+0000082075	null	null	null	null	null	null	00550590	Desp. of Term okmwwy
+0000082075	null	null	null	null	null	null	00204403	Desp. of Term slsson
+0000082075	null	null	null	null	null	null	00131619	Desp. of Term hzsjty
+0000082075	null	null	null	null	null	null	00014263	Desp. of Term mzvmzt
+0000082075	null	null	null	null	null	null	00315367	Desp. of Term kmygiz
+0000632702	00020005	Result of Marker qbikb	2000-4-4	00015304	Result of Assay bwhota	2000-4-4	00198724	Desp. of Term agmgzc
+0000632702	null	null	null	null	null	null	00693697	Desp. of Term yacjsj
+0000632702	null	null	null	null	null	null	00512657	Desp. of Term xqfclv
+0000632702	null	null	null	null	null	null	00608856	Desp. of Term pdpfbx
+0000632702	null	null	null	null	null	null	00071791	Desp. of Term iqrjmd
+0000632702	null	null	null	null	null	null	00082464	Desp. of Term urjdxp
+0000632702	null	null	null	null	null	null	00550590	Desp. of Term okmwwy
+0000632702	null	null	null	null	null	null	00321460	Desp. of Term bmsxqg
+0000977606	00058754	Result of Marker dvpph	1994-1-18	00095472	Result of Assay iedoin	1994-1-18	00023488	Desp. of Term tfrrad
+0000516776	00071658	Result of Marker dbrnt	1992-5-10	00045014	Result of Assay biriis	1992-5-10	00646640	Desp. of Term xknlft
+0000516776	null	null	null	null	null	null	00454867	Desp. of Term aqtvqn
+0000516776	null	null	null	null	null	null	00334228	Desp. of Term ofnycg
+0000516776	null	null	null	null	null	null	00322142	Desp. of Term dsksfu
+0000516776	null	null	null	null	null	null	00633741	Desp. of Term gerakm
+0000334785	00026824	Result of Marker lefbl	1992-1-1	00086385	Result of Assay flmgmk	1992-1-1	00389870	Desp. of Term ogikgd
+0000334785	null	null	null	null	null	null	00147767	Desp. of Term ssjang
+0000334785	null	null	null	null	null	null	00082464	Desp. of Term urjdxp
+0000334785	null	null	null	null	null	null	00029745	Desp. of Term ijcnic
+0000334785	null	null	null	null	null	null	00278307	Desp. of Term wpbwoa
+0000334785	null	null	null	null	null	null	00161528	Desp. of Term azebzm
+0000334785	null	null	null	null	null	null	00492872	Desp. of Term caesle
+0000550524	00020005	Result of Marker qbikb	1999-2-28	00021700	Result of Assay msnjiy	1999-2-28	00576399	Desp. of Term eqgufv
+0000550524	null	null	null	null	null	null	00133897	Desp. of Term gniyys
+0000550524	null	null	null	null	null	null	00247169	Desp. of Term ivrdno
+0000550524	null	null	null	null	null	null	00789248	Desp. of Term vvzkfy
+0000550524	null	null	null	null	null	null	00173596	Desp. of Term dezehy
+0000550524	null	null	null	null	null	null	00986479	Desp. of Term mkywnh
+0000550524	null	null	null	null	null	null	00264249	Desp. of Term qkmkfs
+0000550524	null	null	null	null	null	null	00151068	Desp. of Term wnbdft
+0000550524	null	null	null	null	null	null	00309660	Desp. of Term lzulgl
+0000550524	null	null	null	null	null	null	00172430	Desp. of Term xzxqaj
+0000583006	00018501	Result of Marker esond	1992-1-14	00024146	Result of Assay ururpk	1992-1-14	00992898	Desp. of Term xybgoq
+0000583006	null	null	null	null	null	null	00265526	Desp. of Term oqvbjk
+0000489990	00071658	Result of Marker dbrnt	1994-7-20	00095472	Result of Assay iedoin	1994-7-20	00464286	Desp. of Term kblphw
+0000489990	null	null	null	null	null	null	00483658	Desp. of Term hulbdm
+0000489990	null	null	null	null	null	null	00517777	Desp. of Term lrrwny
+0000489990	null	null	null	null	null	null	00099623	Desp. of Term gcszuf
+0000489990	null	null	null	null	null	null	00012379	Desp. of Term baegwm

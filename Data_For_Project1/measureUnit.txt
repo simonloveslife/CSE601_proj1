@@ -1,0 +1,3 @@
+mu_id	name	type	description
+001	Val	Micaroarray	Expression value
+002	PA	Microarray	P-present, A-absent

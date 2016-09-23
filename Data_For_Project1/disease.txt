@@ -1,0 +1,7 @@
+ds_id	name	type	description
+0001	Giloblastome	CNS_tumor	tumor
+0002	ALL	leukemia	tumor
+0003	AML	leukemia	tumor
+0004	Colon tumor	adeno-carcinoma	tumor
+0005	Breast tumor	adeno-carcinoma	tumor
+0006	Flu	infection	Desp. of flue
