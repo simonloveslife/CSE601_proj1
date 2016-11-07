@@ -1,0 +1,7 @@
+This a project1 of CSE601, Data Mining 
+
+We are required to design a high-effiency Database schema. Given some queries, our sysytem must ouput correct result in short time.
+In this project, we use Sqlite as our database. 
+Our Group use some tricks like bit comuputing to improve effiency. Also, approciate data structure is necessay.
+
+More details in report.
